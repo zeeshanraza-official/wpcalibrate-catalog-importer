@@ -1,0 +1,11 @@
+SKU,Name,Product Type,Parent SKU,Regular Price,Sale Price,Manage Stock,Stock Qty,Stock Status,Categories,Tags,Images,Weight,Length,Width,Height,Virtual,Downloadable,External URL,Button Text,Attributes,Variation Attributes,Custom Meta: Brand
+SHIRT-SIMPLE-001,Classic Oxford Button-Down,simple,,49.99,39.99,yes,50,instock,"Apparel > Shirts, Menswear","cotton, formal, oxford",,0.4,30,20,2,no,no,,,,Material:100% Cotton|Fit:Regular,,WPCalibrate
+HOODIE-VAR-001,Premium Pullover Hoodie,variable,,,,,,,,Apparel > Hoodies,"fleece, casual",,0.8,40,30,5,no,no,,,,Color:Navy,Heather Gray|Size:S,M,L,,WPCalibrate
+HOODIE-VAR-001-NV-S,Premium Pullover Hoodie - Navy / S,variation,HOODIE-VAR-001,59.99,,yes,20,instock,,,,,0.8,40,30,5,no,no,,,,Color=Navy|Size=S,
+HOODIE-VAR-001-NV-M,Premium Pullover Hoodie - Navy / M,variation,HOODIE-VAR-001,59.99,,yes,25,instock,,,,,0.8,40,30,5,no,no,,,,Color=Navy|Size=M,
+HOODIE-VAR-001-GR-L,Premium Pullover Hoodie - Heather Gray / L,variation,HOODIE-VAR-001,59.99,54.99,yes,15,instock,,,,,0.8,40,30,5,no,no,,,,Color=Heather Gray|Size=L,
+EBOOK-DIGITAL-001,WooCommerce Growth Strategy Ebook,simple,,19.99,,no,,instock,Digital Books,marketing,,0,0,0,0,yes,yes,,,,,,,WPCalibrate
+CAM-EXTERNAL-001,Professional Mirrorless Camera 4K,external,,1299.00,,no,,instock,Photography,camera,,1.2,15,12,10,no,no,https://amazon.com/dp/B0EXAMPLE,Buy on Amazon,,,Sony
+BUNDLE-GROUPED-001,Winter Essentials Set,grouped,,,,,,"Apparel > Sets",winter,,,,0,0,0,0,no,no,,,,,,,WPCalibrate
+AUDIO-HEADSET-001,Pro Wireless Noise-Cancelling Headphones,simple,,249.99,199.99,yes,35,instock,Electronics > Audio,"wireless, bluetooth, audio",,0.3,18,15,8,no,no,,,,Connectivity:Bluetooth 5.3|Battery:30 Hours,,AudioTech
+COFFEE-BEANS-001,Artisan Roast Espresso Beans 1kg,simple,,24.50,,yes,80,instock,Grocery > Coffee,"organic, espresso, artisan",,1.0,25,15,10,no,no,,,,Roast Level:Dark Roast|Origin:Colombia,,RoastMaster
